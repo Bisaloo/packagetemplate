@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: epiverse-trace/packagetemplate
+          repository: Bisaloo/packagetemplate
       - uses: actions/upload-artifact@v4
         with:
           name: config-from-packagetemplate

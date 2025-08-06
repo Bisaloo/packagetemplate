@@ -55,5 +55,5 @@ jobs:
           body: |
             This pull request updates the citation file, ensuring all authors are credited and there are no discrepancies.
 
-            Please verify the changes before merging. 
+            Please verify the changes before merging.
           branch: update-citation-cff

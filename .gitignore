@@ -59,3 +59,5 @@ rsconnect/
 revdep/library
 revdep/data.sqlite
 revdep/checks
+
+/.quarto/

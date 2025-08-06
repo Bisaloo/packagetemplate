@@ -16,7 +16,8 @@ linters: all_linters(
     indentation_linter = NULL, # unstable as of lintr 3.1.0
     one_call_pipe_linter = NULL,
     object_overwrite_linter = NULL,
-    # Epiverse-TRACE minimum R version support, as described in the blueprints
+    # Minimum R version support, as described in the blueprints.
+    # Waiting on the better solution here: 
     backport_linter("oldrel-4")
   )
 exclusions: list(
