@@ -2,7 +2,7 @@ Package: packagetemplate
 Title: Your Package Title in Titlecase
 Version: 0.0.1
 Authors@R: c(
-    person("Hugo", "Gruson", , "hugo@data.org", role = c("aut", "cre"),
+    person("Hugo", "Gruson", , "hugo.gruson+R@normalesup.org", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-4094-1476"))
   )
 Description: Your package description. It must end with a period (".") and
